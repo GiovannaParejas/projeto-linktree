@@ -78,3 +78,9 @@ Para adaptar a página com suas próprias informações, edite os arquivos dentr
 ## 👩‍💻 Autora
 
 Desenvolvido por **Giovanna Parejas**.
+
+---
+ 
+## 📄 Licença
+ 
+Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
